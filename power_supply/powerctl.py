@@ -3,7 +3,7 @@ import configparser
 import time
 import logging
 from util import *
-from pypsw import *
+from psw import *
 from OPLogManager import *
 
 ROOT_PATH = os.getcwd()

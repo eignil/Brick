@@ -1,7 +1,7 @@
 '''
 Created on Oct 11, 2017
 
-@author: qxiong06
+@author: 
 '''
 import socket
 import logging
