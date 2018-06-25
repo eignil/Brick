@@ -1,4 +1,4 @@
 {
-    "uart":"com14",
-    "baudrate":115200
+    "uart":"com10",
+    "baudrate":38400
 }
