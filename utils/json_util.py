@@ -188,4 +188,4 @@ def output(self, what="", file_path=None, append=False,
 
 
 if __name__ == '__main__':
-    print(type(input_object("D:\\ws\\812A_auto_test\\data\\json_config_examples\\booster-amp.json")))
+    pass
